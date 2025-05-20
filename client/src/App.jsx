@@ -1,7 +1,8 @@
 import "./App.css";
+import AllEmployees from "./Components/AllEmployees";
 
 function App() {
-	return <div className="bg-blue-300 h-24 w-20">Heading</div>;
+	return <AllEmployees />;
 }
 
 export default App;
